@@ -1,15 +1,12 @@
 # heat_wave_load_visualization
 This repository houses the raw data and processing scripts to create the IM3 visualizations of heat wave impacts on 
-electricity demands. The future loads for different weather years are based on the Total ELectricity Loads (TELL) model.
+electricity demand. The future loads for different weather years are based on the Total ELectricity Loads (TELL) model.
 
-## Input Files
-The input data needed to recreate this process is stored in the [data](data/) directory.
+## Data Files
+The input data used in the visualizations are stored in the [data](data/) directory.
 
-## Output Files
-The output of this processing is stored in the [data](data/) directory.
-
-## Summary Plots
-Quick-look plots analyzing the data are stored in the [plots](plots/) directory.
+## Plots
+Plots analyzing the data are stored in the [plots](plots/) directory.
 
 ## Citations
 Any use of this data in a publication, presentation, or report should use the following citations. Please contact 
